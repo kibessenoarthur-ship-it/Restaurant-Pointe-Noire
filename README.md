@@ -1,4 +1,4 @@
-# Chez Mado – Restaurant à Pointe-Noire
+# Chez Stõne&Cécilia– Restaurant à Pointe-Noire
 
 Site vitrine d’un restaurant situé à Pointe-Noire, Congo.
 
